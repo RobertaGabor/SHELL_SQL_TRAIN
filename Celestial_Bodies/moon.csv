@@ -1,0 +1,22 @@
+name,description,planet_id,was_visited_by_humans
+Nombre Luna 1,Descripción Luna 1,49,true
+Nombre Luna 2,Descripción Luna 2,42,false
+Nombre Luna 3,Descripción Luna 3,43,true
+Nombre Luna 4,Descripción Luna 4,50,false
+Nombre Luna 5,Descripción Luna 5,54,true
+Nombre Luna 6,Descripción Luna 6,47,false
+Nombre Luna 7,Descripción Luna 7,55,true
+Nombre Luna 8,Descripción Luna 8,39,false
+Nombre Luna 9,Descripción Luna 9,47,true
+Nombre Luna 10,Descripción Luna 10,47,false
+Nombre Luna 11,Descripción Luna 11,53,true
+Nombre Luna 12,Descripción Luna 12,45,false
+Nombre Luna 13,Descripción Luna 13,54,true
+Nombre Luna 14,Descripción Luna 14,45,false
+Nombre Luna 15,Descripción Luna 15,49,true
+Nombre Luna 16,Descripción Luna 16,44,false
+Nombre Luna 17,Descripción Luna 17,44,true
+Nombre Luna 18,Descripción Luna 18,46,false
+Nombre Luna 19,Descripción Luna 19,40,true
+Nombre Luna 20,Descripción Luna 20,38,false
+Nombre Luna 21,Descripción Luna 20,56,false

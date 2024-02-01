@@ -1,0 +1,22 @@
+name,distance_from_earth_in_million_miles,size,has_life,star_id
+Planet 1,84,8,true,76
+Planet 2,12,1,false,66
+Planet 3,37,2,true,69
+Planet 4,91,7,true,71
+Planet 5,68,6,false,76
+Planet 6,55,3,false,63
+Planet 7,29,5,true,72
+Planet 8,42,4,false,64
+Planet 9,76,10,true,67
+Planet 10,63,9,false,63
+Planet 11,23,2,true,77
+Planet 12,88,3,false,64
+Planet 13,49,1,true,75
+Planet 14,16,8,false,62
+Planet 15,73,7,true,78
+Planet 16,35,4,false,75
+Planet 17,97,6,true,78
+Planet 18,58,5,false,64
+Planet 19,41,9,true,66
+Planet 20,25,10,false,61
+Planet 21,25,10,false,65

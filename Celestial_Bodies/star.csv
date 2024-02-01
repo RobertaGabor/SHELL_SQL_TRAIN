@@ -1,0 +1,22 @@
+name,is_alive,galaxy_id,visible_from_earth
+Nombre Estrella 1,true,165,true
+Nombre Estrella 2,false,157,false
+Nombre Estrella 3,true,162,true
+Nombre Estrella 4,true,157,false
+Nombre Estrella 5,false,162,true
+Nombre Estrella 6,true,167,false
+Nombre Estrella 7,false,160,true
+Nombre Estrella 8,true,168,true
+Nombre Estrella 9,true,158,false
+Nombre Estrella 10,false,157,true
+Nombre Estrella 11,true,166,false
+Nombre Estrella 12,true,168,true
+Nombre Estrella 13,false,165,false
+Nombre Estrella 14,true,170,true
+Nombre Estrella 15,false,162,false
+Nombre Estrella 16,true,156,true
+Nombre Estrella 17,true,163,true
+Nombre Estrella 18,false,166,false
+Nombre Estrella 19,true,158,true
+Nombre Estrella 20,false,158,false
+Nombre Estrella 21,false,165,false
