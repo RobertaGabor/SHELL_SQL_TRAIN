@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schemas.botframework.com/schemas/skills/v2.2/skill-manifest.json",
+    "$id": "e81eda48-a0be-4a47-9fe2-1f6f4ba3e15b",
+    "name": "Bot SharePoint file viewer",
+    "version": "1.0.0",
+    "publisherName": "Microsoft",
+    "description": "Bot SharePoint file viewer",
+    "endpoints": [
+        {
+            "name": "americas",
+            "protocol": "BotFrameworkV3",
+            "description": "Production endpoint for SkillBot in the Americas",
+            "endpointUrl": "https://5164-200-43-6-157.ngrok-free.app/api/messages",
+            "msAppId": "e81eda48-a0be-4a47-9fe2-1f6f4ba3e15b"
+        }
+    ],
+    "activities": {
+        "uploadfile": {
+            "type": "event",
+            "name": "uploadfile",
+            "description": "To upload file in SharePoint site"
+        },
+        "viewfile": {
+            "type": "event",
+            "name": "viewfile",
+            "description": "To view file in Teams file viewer"
+        },
+        "conversationUpdate": {
+            "type": "conversationUpdate"
+        }
+    },
+    "icons": {
+        "outline": "outline.png",
+        "color": "color.png"
+    },
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "5164-200-43-6-157.ngrok-free.app",
+        "token.botframework.com"
+    ],
+    "webApplicationInfo": {
+        "id": "e81eda48-a0be-4a47-9fe2-1f6f4ba3e15b",
+        "resource": "api://botid-e81eda48-a0be-4a47-9fe2-1f6f4ba3e15b"
+    }
+}
